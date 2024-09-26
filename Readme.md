@@ -1,4 +1,6 @@
- ### Name:Vinush.CV
+# Object-detection-using-web-camera
+
+### Name:Vinush.CV
 ### Reg no: 212222230176
 
 ### Aim:
